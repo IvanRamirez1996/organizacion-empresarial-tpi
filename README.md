@@ -7,5 +7,5 @@ Plataforma de inteligencia predictiva orientada a la reubicación preventiva de 
 * **Carrera:** Tecnicatura Universitaria en Programación (TUPaD) - UTN
 
 ## Enlaces de Interés
-* [Repositorio Público en GitHub] --> (https://github.com/IvanRamirez1996/organizacion-empresarial-tpi)
-* [Tablero Ágil de Gestión] --> (https://github.com/users/IvanRamirez1996/projects/1/views/1)
+[Repositorio Público en GitHub](https://github.com/IvanRamirez1996/organizacion-empresarial-tpi)
+[Tablero Ágil de Gestión](https://github.com/users/IvanRamirez1996/projects/1/views/2)
